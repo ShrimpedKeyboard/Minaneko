@@ -5,7 +5,7 @@
 
 the minaneko is a 40% keyboard with a southpaw numpad 
 
-![alt text](https://github.com/ShrimpedKeyboard/Shrimptana/blob/main/Misc/KLE.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/Minaneko/blob/main/kle/minaneko.png?raw=true)
  --- 
 
 ## Case
@@ -15,7 +15,9 @@ the weight uses 2 m3 screws
 other weight uses duct tape lol
 plan to add some engravings lining the weight just need to find an artist to do this
 
-![alt text](https://github.com/ShrimpedKeyboard/Shrimptana/blob/main/Gallery/Renders/Case%202.png?raw=true)
+case is also suprisingly cheap to get manufactured even with a cncd brass weight
+
+![alt text](https://github.com/ShrimpedKeyboard/Minaneko/blob/main/Pictures/Minaneko%20case%201.png?raw=true)
 
  --- 
 
