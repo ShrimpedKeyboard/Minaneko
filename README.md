@@ -3,7 +3,7 @@
 
 
 
-the minaneko is a 40% keyboard with a southpaw numpad 
+the minaneko is a 40% keyboard with a southpaw numpad with an optional drop in trackpad to replace the numpad
 
 ![alt text](https://github.com/ShrimpedKeyboard/Minaneko/blob/main/kle/minaneko.png?raw=true)
  --- 
@@ -26,6 +26,7 @@ case is also suprisingly cheap to get manufactured even with a cncd brass weight
 ## PCB
 
 A hotswap RP2040 pcb with the numpad using a seperate pcb conected by jst/ribbon cable with an rgb strip header for underglow inside of polycarbonate/pmma cases
+instead of the numpad you have to option to replace it with a trackpad all though i still have to figgure this out and it is very confusing 
 
 ![alt text](https://github.com/ShrimpedKeyboard/Minaneko/blob/main/Pictures/PCB%20picture.png?raw=true)
 
