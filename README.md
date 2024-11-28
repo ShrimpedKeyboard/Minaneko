@@ -15,6 +15,8 @@ the weight uses 2 m3 screws
 other weight uses duct tape lol
 weight engravings draw by sune
 
+pcb and plate mounts with a basic oring / a spring mount similar to the akko spr67 using tpu mounting points on the top of any 16mm switch spring 150g ones will be included to go on top of the 15 spring mounting points inside the case 
+
 case is also suprisingly cheap to get manufactured even with a cncd brass weight
 
 ![alt text](https://github.com/ShrimpedKeyboard/Minaneko/blob/main/Pictures/Minaneko%20case%201.png?raw=true)
