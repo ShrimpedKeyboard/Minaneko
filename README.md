@@ -20,6 +20,8 @@ pcb and plate mounts with a basic oring / a spring mount similar to the akko spr
 case is also suprisingly cheap to get manufactured even with a cncd brass weight
 
 ![alt text](https://github.com/ShrimpedKeyboard/Minaneko/blob/main/Pictures/Minaneko%20case%201.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/Minaneko/blob/main/Pictures/Case%204.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/Minaneko/blob/main/Pictures/Case%203.png?raw=true)
 
  --- 
 
