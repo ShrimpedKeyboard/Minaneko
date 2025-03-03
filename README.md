@@ -1,20 +1,12 @@
 # Minaneko
-
-
-
-the minaneko is a 40% keyboard with a southpaw numpad
-
-![alt text](https://github.com/ShrimpedKeyboard/Minaneko/blob/main/kle/minaneko.png?raw=true)
- --- 
-
 ## Case
 
 The Minaneko is a gummy oring mount one peice case with a large koenko styled weight on the back
 
 
-![alt text](https://github.com/ShrimpedKeyboard/Minaneko/blob/main/Pictures/Minaneko%20case%201.png?raw=true)
-![alt text](https://github.com/ShrimpedKeyboard/Minaneko/blob/main/Pictures/Case%204.png?raw=true)
-![alt text](https://github.com/ShrimpedKeyboard/Minaneko/blob/main/Pictures/Case%203.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/Minaneko/blob/main/Pictures/Minaneko%20red%20samurai.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/Minaneko/blob/main/Pictures/Minaneko%20Dualshot%202.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/Minaneko/blob/main/Pictures/Minaneko%20Red%20alert%203.png?raw=true)
 
  --- 
 
