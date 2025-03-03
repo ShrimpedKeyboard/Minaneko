@@ -1,5 +1,4 @@
 # Minaneko
-## All cats
 
 
 
